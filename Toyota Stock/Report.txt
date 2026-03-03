@@ -1,0 +1,129 @@
+This comprehensive dataset contains daily stock market data for Toyota Motor Corporation (NYSE: TM), one of the world's largest automobile manufacturers. It includes complete Open, High, Low, Close (OHLC) price data and trading volume for over 40 years of trading history, making it ideal for financial analysis, time series forecasting, technical analysis, and machine learning applications.
+
+Key Features
+✅ Complete OHLC Data: Open, High, Low, Close prices for each trading day
+✅ Trading Volume: Daily trading volume in shares
+✅ Long-term Coverage: Over 40 years of historical data
+✅ Clean and Consistent: Pre-processed for immediate analysis
+✅ Time Series Ready: Properly formatted dates and chronological ordering
+✅ Beginner Friendly: Simple CSV format with clear column names
+
+
+
+
+=====================================================================
+
+DATA PREPARATION OPERATIONS
+
+Data Loading
+
+Date Conversion
+
+Setting Date Index
+
+Handling Missing Values
+
+Data Type Checking
+
+Data Cleaning
+
+✅ 📈 FEATURE ENGINEERING OPERATIONS
+
+Price Change Calculation
+
+Daily Return Calculation
+
+Moving Average (MA50)
+
+Moving Average (MA200)
+
+Volatility Calculation
+
+Profit / Loss Classification
+
+✅ 📊 BASIC DATA ANALYSIS
+
+Descriptive Statistics Analysis
+
+Maximum & Minimum Price Analysis
+
+Profit vs Loss Count Analysis
+
+Trading Volume Analysis
+
+✅ 📉 TIME SERIES ANALYSIS
+
+Price Trend Analysis
+
+Monthly Trend Analysis
+
+Yearly Return Analysis
+
+Long-term Growth Analysis
+
+✅ 📊 VISUALIZATION OPERATIONS
+
+Line Chart Visualization
+
+Bar Chart Visualization
+
+Pie Chart Visualization
+
+Moving Average Trend Chart
+
+Volume Trend Chart
+
+Correlation Heatmap
+
+✅ 💰 ADVANCED FINANCIAL ANALYSIS
+
+CAGR Calculation
+
+Sharpe Ratio Calculation
+
+Drawdown Analysis
+
+Peak Price Detection
+
+Risk vs Return Analysis
+
+✅ 📊 MARKET BEHAVIOR ANALYSIS
+
+Bull Market Detection
+
+Bear Market Detection
+
+Market Sentiment Analysis
+
+✅ 🔮 FORECASTING OPERATIONS
+
+Moving Average Forecasting
+
+Future Price Prediction (Trend Based)
+
+
+
+=================================================
+table_name = "toyota_stock"
+from sqlalchemy import create_engine
+import pandas as pd
+
+username = "postgres"      # usually postgres
+password = "root" # your pgAdmin password
+host = "localhost"
+port = "5432"
+database = "tata_stock_db"   # create this database first
+
+engine = create_engine(
+    f"postgresql+psycopg2://{username}:{password}@{host}:{port}/{database}"
+)
+
+print("Connected Successfully")
+
+df.to_sql(table_name, engine, if_exists="replace", index=False)
+
+print(f"Data successfully loaded into table '{table_name}' in database '{database}'.")
+
+
+
+
