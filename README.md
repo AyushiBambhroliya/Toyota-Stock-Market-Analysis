@@ -63,7 +63,7 @@ Toyota_Stock_Analysis/
 ## Visuals
 
 ### Power BI Dashboard Preview
-
+<img width="739" height="675" alt="Image" src="https://github.com/user-attachments/assets/20067cea-cf0d-44a7-a20d-3e6be5dcb07a" />
 ### Python Analysis Preview
 <img width="1258" height="589" alt="Image" src="https://github.com/user-attachments/assets/5d936f0d-5fa0-4da9-9b9a-8803cf09a55f" />
 <img width="1218" height="582" alt="Image" src="https://github.com/user-attachments/assets/c5d16790-95d4-46e3-aa6a-40e301394062" />
