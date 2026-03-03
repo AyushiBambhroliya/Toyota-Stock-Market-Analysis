@@ -73,6 +73,8 @@ Toyota_Stock_Analysis/
 <img width="1162" height="568" alt="Image" src="https://github.com/user-attachments/assets/9665f26a-51ca-430b-a1d1-c223b875b1e6" />
 
 <img width="1159" height="568" alt="Image" src="https://github.com/user-attachments/assets/3aa57d71-c4d5-4573-9340-5cd687ec4051" />
+
+<img width="1159" height="568" alt="Image" src="https://github.com/user-attachments/assets/3aa57d71-c4d5-4573-9340-5cd687ec4051" />
 ---
 
 ## Video Demo
