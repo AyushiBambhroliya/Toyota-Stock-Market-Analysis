@@ -66,6 +66,13 @@ Toyota_Stock_Analysis/
 
 ### Python Analysis Preview
 <img width="1258" height="589" alt="Image" src="https://github.com/user-attachments/assets/5d936f0d-5fa0-4da9-9b9a-8803cf09a55f" />
+<img width="1218" height="582" alt="Image" src="https://github.com/user-attachments/assets/c5d16790-95d4-46e3-aa6a-40e301394062" />
+
+<img width="1059" height="703" alt="Image" src="https://github.com/user-attachments/assets/17a346a1-da3b-4421-862d-890adc1ca177" />
+
+<img width="1162" height="568" alt="Image" src="https://github.com/user-attachments/assets/9665f26a-51ca-430b-a1d1-c223b875b1e6" />
+
+<img width="1159" height="568" alt="Image" src="https://github.com/user-attachments/assets/3aa57d71-c4d5-4573-9340-5cd687ec4051" />
 ---
 
 ## Video Demo
