@@ -81,6 +81,7 @@ Toyota_Stock_Analysis/
 
 📹 Watch the full project walkthrough here:  
 <!-- Uploading "WhatsApp Video 2026-03-03 at 5.32.30 PM.mp4"... -->
+<Toyota_Stock_Analysis_Demo.mp4a" />
 
 > Note: You can upload the video inside the `5_Docs` folder in your GitHub repo.
 
